@@ -21,8 +21,6 @@
             {
                 case SIGN.PLUS:
                     return arg1 + arg2;
-
-
                 default:
                     break;
             }
